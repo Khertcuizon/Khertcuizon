@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="assets/profile-banner.png" alt="Profile Banner" width="100%">
+<img src="assets/541226320_1938241160242235_1911795932407553529_n.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <p align="center">

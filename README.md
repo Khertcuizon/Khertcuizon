@@ -1,5 +1,5 @@
 <!--
-**Khertcuizon/Khertcuizon** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Khertcuizon/Khertcuizon** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi 👋, I'm Khert Cuizon</h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="assets/541226320_1938241160242235_1911795932407553529_n.jpg" alt="Profile Banner" width="100%">
+  <img src="assets/541226320_1938241160242235_1911795932407553529_n.jpg" width="180" alt="Khert Cuizon">
 </p>
 
 <p align="center">
@@ -17,15 +17,15 @@ Building innovative solutions through technology.
 </p>
 
 <p align="center">
-<a href="https://github.com/Khertcuizon">
-<img src="https://img.shields.io/badge/GitHub-Khertcuizon-181717?style=for-the-badge&logo=github">
-</a>
+  <a href="https://github.com/Khertcuizon">
+    <img src="https://img.shields.io/badge/GitHub-Khertcuizon-181717?style=for-the-badge&logo=github">
+  </a>
 
-<a href="mailto:khertcuizon.29@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-khertcuizon.29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:khertcuizon.29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-khertcuizon.29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=Khertcuizon&style=for-the-badge&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=Khertcuizon&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -33,13 +33,13 @@ Building innovative solutions through technology.
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Flutter and Web Development Projects**
-- 🌱 I’m currently learning **Flutter, Firebase, MySQL, and Software Engineering**
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**
-- 🤔 I’m looking for help with **Artificial Intelligence and Machine Learning**
-- 💬 Ask me about **Flutter, HTML, CSS, Dart, Firebase, and GitHub**
-- 📫 How to reach me: **khertcuizon.29@gmail.com**
+- 🌱 I’m currently learning **Flutter, Firebase, MySQL, Software Engineering, and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Flutter, Firebase, and Open Source Projects**
+- 🤔 I’m looking for help with **Machine Learning and AI**
+- 💬 Ask me about **Flutter, HTML, CSS, Dart, Firebase, GitHub, and MySQL**
+- 📫 Reach me at **khertcuizon.29@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy turning ideas into real applications through code.**
+- ⚡ Fun fact: **I enjoy turning ideas into useful applications through code.**
 
 ---
 
@@ -47,30 +47,30 @@ Building innovative solutions through technology.
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,dart"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,dart" />
 </p>
 
 ### 📱 Frameworks & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql" />
 </p>
 
-### 🛠 Tools
+### 🛠 Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode,figma"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khertcuizon&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khertcuizon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khertcuizon&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khertcuizon&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Building innovative solutions through technology.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Khertcuizon&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Khertcuizon&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -86,12 +86,20 @@ Building innovative solutions through technology.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Khertcuizon&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Khertcuizon&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khertcuizon&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -107,6 +115,18 @@ Building innovative solutions through technology.
 
 ---
 
+<h3 align="center">💡 Favorite Quote</h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<i>"Building innovative solutions through technology."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
